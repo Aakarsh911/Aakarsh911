@@ -55,6 +55,3 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://aakarshkaushal.com/)  
 📫 Email: **aakarshkaushal@gmail.com**
 
----
-⭐️ From [aakarshkaushal](https://github.com/aakarshkaushal)
-
