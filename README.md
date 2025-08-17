@@ -42,11 +42,11 @@
 ---
 
 ## 📊 GitHub Stats
-![Aakarsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=aakarshkaushal&show_icons=true&theme=radical)  
+![Aakarsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aakarsh911&show_icons=true&theme=radical)  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aakarshkaushal&layout=compact&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aakarsh911&layout=compact&theme=radical)  
 
-![GitHub Streak](https://streak-stats.demolab.com?user=aakarshkaushal&theme=radical)  
+![GitHub Streak](https://streak-stats.demolab.com?user=Aakarsh911&theme=radical)  
 
 ---
 
