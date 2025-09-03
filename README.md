@@ -45,8 +45,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aakarsh911&layout=compact&theme=radical)  
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Aakarsh911&theme=radical)  
-
 ---
 
 ## 🌐 Connect with Me
