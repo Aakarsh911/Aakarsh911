@@ -33,7 +33,7 @@
 ---
 
 ## 📌 Featured Projects
-- 🤖 **[BotForge](https://github.com/aakarshkaushal/botforge)** – No-code AI chatbot builder with full customization & API integration.  
+- 🤖 **[BotForge](https://github.com/Aakarsh911/bot-forge)** – No-code AI chatbot builder with full customization & API integration.  
 - 📦 **Warehouse Automation** – Multi-robot coordination using Q-learning + A* pathfinding.  
 - 📊 **SmarterReceipt** – Inventory + analytics platform with digital receipts for small shops.  
 - 🔒 **GenCrypt** – Encryption/decryption platform with a clean UI for secure messaging.  
