@@ -34,10 +34,9 @@
 
 ## 📌 Featured Projects
 - 🤖 **[BotForge](https://github.com/Aakarsh911/bot-forge)** – No-code AI chatbot builder with full customization & API integration.  
-- 📦 **Warehouse Automation** – Multi-robot coordination using Q-learning + A* pathfinding.  
-- 📊 **SmarterReceipt** – Inventory + analytics platform with digital receipts for small shops.  
-- 🔒 **GenCrypt** – Encryption/decryption platform with a clean UI for secure messaging.  
-- 🎮 **Guess the Password** – Fun C++/Python password-guessing game using AI.  
+- 🕹️ **[Kiaak Game Engine](https://github.com/Aakarsh911/kiaak-game-engine)** – Modular C++ game engine for 2D/3D games with real-time rendering.  
+- 📊 **[SmarterReceipt](https://github.com/Aakarsh911/SmarterReceipt)** – Inventory + analytics platform with digital receipts for small shops.  
+- ⚫️⚪️ **[Reversi](https://github.com/Aakarsh911/Reversi)** – Java-based classic board game implementation with AI opponent.
 
 ---
 
