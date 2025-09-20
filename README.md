@@ -8,15 +8,13 @@
 
 ## 🚀 About Me
 - 🔭 Currently working on **BotForge** (no-code AI chatbot builder) and **Warehouse Automation** (multi-agent RL simulation).  
-- 🌱 Learning **Rust, PyTorch, and Distributed ML systems**.  
-- 🎯 Goal: Build scalable AI systems & land a top-tier SWE internship.  
-- ⚡ Fun fact: I’ve built tools ranging from **AI SaaS** to **GPU rental platforms**.  
+- 🌱 Learning Go with MCP integration and scalable backend systems using cloud technologies
+- 🎯 Goal: Build scalable AI systems & build a startup that solves a real problem  
 
 ---
 
 ## 🛠 Tech Stack
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white)
-![Rust](https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
